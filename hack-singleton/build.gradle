@@ -1,0 +1,13 @@
+apply plugin:'java'
+apply plugin :'maven'
+apply plugin : 'idea'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile   'com.google.guava:guava:13.0.1'
+    testCompile 'org.testng:testng:6.8'
+}
