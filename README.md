@@ -1,4 +1,4 @@
 my-blog-sample-codes
 ====================
 
-use to host my sample code releated to my blog
+Use to host sample codes releated to my blog
